@@ -112,23 +112,6 @@ width="50" height="50" alt="Bootstrap"/>
 
 ---
 
-### ☕ Java Development
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-width="50" height="50" alt="Java"/>
-
-</p>
-
-- Object-Oriented Programming
-- Java Application Development
-- JavaFX
-- GUI Application Development
-- Software Design
-
----
-
 ### 🗄️ Database & SQL
 
 <p align="left">
@@ -177,26 +160,7 @@ width="50" height="50" alt="IntelliJ IDEA"/>
 
 </p>
 
-**Git • GitHub • Visual Studio Code • antigravity • IntelliJ IDEA**
-
----
-
-<!-- ===================== SKILLS ===================== -->
-
-## 🧠 Professional Skills
-
-| Skill | Description |
-|---|---|
-| 💻 Software Development | Designing and developing practical software solutions |
-| 🌐 Web Development | Front-end and back-end web application development |
-| ☕ Java Development | Object-oriented and Java application development |
-| 📊 Data Analysis | Analyzing and interpreting data using programming tools |
-| 🧩 Problem Solving | Breaking complex problems into practical solutions |
-| 🧠 Critical Thinking | Logical analysis and technical decision-making |
-| 🤝 Team Collaboration | Working effectively with team members |
-| 🗣️ Communication | Sharing ideas and collaborating on projects |
-| ⏱️ Time Management | Managing academic and development tasks |
-| 🔄 Adaptability | Learning and adapting to new technologies |
+**Git • GitHub • Visual Studio Code • antigravity • IntelliJ IDEA**|
 
 ---
 
@@ -218,15 +182,3 @@ I'm interested in building practical applications that combine
 - 🔐 Application functionality and data management
 
 ---
-
-### 🌐 Web Development
-
-Building responsive web applications using:
-
-```text
-HTML
-CSS
-JavaScript
-Bootstrap
-PHP
-MySQL
