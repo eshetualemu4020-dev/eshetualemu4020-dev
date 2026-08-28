@@ -1,23 +1,13 @@
 <!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-# 👋 Hi, I'm Eshetu Alemu
-
-### 💻 Computer Science Student | Software Developer | Data Science Enthusiast
-
-<p>
-  <img src="https://img.shields.io/badge/Computer%20Science-Student-1F4E79?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software-Development-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data-Science-6A1B9A?style=for-the-badge" />
-</p>
-
-<p>
-  <i>Building practical solutions • Learning continuously • Growing through code</i>
-</p>
+<img
+  src="https://raw.githubusercontent.com/eshetualemu4020-dev/eshetualemu4020-dev/main/Aman_animated.svg"
+  width="900"
+  alt="Software Development | Web Development | Data Science | Computer Science Student"
+/>
 
 </div>
-
 ---
 
 <!-- ===================== ABOUT ME ===================== -->
