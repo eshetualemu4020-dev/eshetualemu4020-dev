@@ -1,13 +1,17 @@
 <!-- ===================== HEADER ===================== -->
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/eshetualemu4020-dev/eshetualemu4020-dev/main/Aman_animated.svg"
+  src="https://raw.githubusercontent.com/eshetualemu4020-dev/eshetualemu4020-dev/main/Eshetu_Alemu.svg"
   width="900"
-  alt="Software Development | Web Development | Data Science | Computer Science Student"
+  alt="I am Eshetu Alemu - Computer Science Student | Software Development | Web Technologies | Data Science"
 />
 
 </div>
+
+---
 ---
 
 <!-- ===================== ABOUT ME ===================== -->
