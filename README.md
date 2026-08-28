@@ -145,19 +145,21 @@ width="50" height="50" alt="Python"/>
 ### 🔧 Tools & Development Environment
 
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-width="50" height="50" alt="Git"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-width="50" height="50" alt="GitHub"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-width="50" height="50" alt="Visual Studio Code"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
-width="50" height="50" alt="IntelliJ IDEA"/>
-
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA"/>
+  </a>
 </p>
 
 **Git • GitHub • Visual Studio Code • antigravity • IntelliJ IDEA**|
