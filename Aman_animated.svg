@@ -1,0 +1,55 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050b18"/><stop offset=".5" stop-color="#0f1f3d"/><stop offset="1" stop-color="#111827"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="14"/></filter>
+<style>
+.focus{font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:700;fill:#e2e8f0}
+.glowText{font-family:Arial,Helvetica,sans-serif;font-size:22px;font-weight:700;fill:#7dd3fc;opacity:0}
+#s{animation:p1 5s ease-in-out infinite}#w{animation:p2 5s ease-in-out infinite}#d{animation:p3 5s ease-in-out infinite}
+@keyframes p1{0%,28%,100%{opacity:0}10%,20%{opacity:1}}
+@keyframes p2{0%,28%,33%,61%,100%{opacity:0}43%,53%{opacity:1}}
+@keyframes p3{0%,61%,66%,94%,100%{opacity:0}76%,86%{opacity:1}}
+.scan{animation:scan 4s linear infinite}@keyframes scan{from{transform:translateX(0);opacity:.1}50%{opacity:.9}to{transform:translateX(530px);opacity:.1}}
+.orbit{transform-origin:1050px 190px;animation:orbit 8s linear infinite}@keyframes orbit{to{transform:rotate(360deg)}}
+.blink{animation:blink 1.5s ease-in-out infinite}@keyframes blink{50%{opacity:1}}
+</style>
+</defs>
+
+<rect width="1200" height="420" rx="30" fill="url(#bg)"/>
+<ellipse cx="930" cy="120" rx="260" ry="150" fill="#2563eb" opacity=".08" filter="url(#soft)"/>
+<ellipse cx="180" cy="340" rx="260" ry="100" fill="#06b6d4" opacity=".06" filter="url(#soft)"/>
+
+<g opacity=".07" stroke="#7dd3fc"><path d="M0 80H1200M0 140H1200M0 200H1200M0 260H1200M0 320H1200M0 380H1200"/><path d="M80 0V420M180 0V420M280 0V420M380 0V420M480 0V420M580 0V420M680 0V420M780 0V420M880 0V420M980 0V420M1080 0V420"/></g>
+
+<text x="70" y="125" font-family="monospace" font-size="88" font-weight="700" fill="#38bdf8" filter="url(#glow)">&lt;/&gt;</text>
+
+<text x="250" y="92" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" fill="#fff">Eshetu Alemu</text>
+<text x="252" y="135" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#cbd5e1">Bachelor Degree Computer Science Student</text>
+<text x="252" y="168" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#94a3b8">Hawassa University</text>
+
+<rect x="250" y="190" width="650" height="2" rx="1" fill="url(#line)" opacity=".35"/>
+<rect class="scan" x="250" y="190" width="120" height="2" rx="1" fill="#38bdf8" filter="url(#glow)"/>
+
+<text x="250" y="245" class="focus">Software Development</text>
+<text x="250" y="245" class="glowText" id="s" filter="url(#glow)">Software Development</text>
+<text x="515" y="245" class="focus">•</text>
+<text x="550" y="245" class="focus">Web Technologies</text>
+<text x="550" y="245" class="glowText" id="w" filter="url(#glow)">Web Technologies</text>
+<text x="760" y="245" class="focus">•</text>
+<text x="795" y="245" class="focus">Data Science</text>
+<text x="795" y="245" class="glowText" id="d" filter="url(#glow)">Data Science</text>
+
+<text x="250" y="290" font-family="monospace" font-size="17" fill="#7dd3fc">Java • Python • JavaScript • PHP • SQL • MySQL</text>
+
+<circle cx="1050" cy="190" r="90" fill="#020617" stroke="#38bdf8" stroke-width="2" filter="url(#glow)"/>
+<circle cx="1050" cy="190" r="70" fill="none" stroke="#818cf8" stroke-width="2" opacity=".65"/>
+<g class="orbit"><circle cx="1050" cy="105" r="6" fill="#22d3ee" filter="url(#glow)"/></g>
+<text x="1050" y="184" text-anchor="middle" font-family="monospace" font-size="31" font-weight="700" fill="#fff">DEV</text>
+<text x="1050" y="213" text-anchor="middle" font-family="monospace" font-size="14" fill="#7dd3fc">BUILD • LEARN</text>
+
+<circle class="blink" cx="250" cy="340" r="5" fill="#22d3ee" filter="url(#glow)"/>
+<text x="268" y="346" font-family="monospace" font-size="16" fill="#94a3b8">LEARNING • BUILDING • IMPROVING</text>
+<rect x="250" y="365" width="650" height="3" rx="2" fill="url(#line)" opacity=".7"/>
+</svg>
