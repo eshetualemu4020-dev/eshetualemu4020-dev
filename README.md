@@ -51,91 +51,99 @@ projects**, collaborating with others, and exploring new technologies.
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<table>
+<tr>
 
-<p align="left">
+<td width="50%" valign="top" align="center">
 
-<a href="https://www.java.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-width="50" height="50" alt="Java"/>
-</a>
+<h3>🎨 Frontend</h3>
 
-<a href="https://www.python.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-width="50" height="50" alt="Python"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-width="50" height="50" alt="JavaScript"/>
-</a>
-
-<a href="https://www.php.net/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-width="50" height="50" alt="PHP"/>
-</a>
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/>
 </p>
 
-**Java • Python • JavaScript • PHP**
-
----
-
-### 🌐 Web Development
-
-<p align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-width="50" height="50" alt="HTML5"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-width="50" height="50" alt="CSS3"/>
-</a>
-
-<a href="https://getbootstrap.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-width="50" height="50" alt="Bootstrap"/>
-</a>
-
+<p>
+  <b>HTML5</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>CSS3</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>JavaScript</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Bootstrap</b>
 </p>
 
-**HTML5 • CSS3 • JavaScript • Bootstrap • PHP**
+</td>
 
----
+<td width="50%" valign="top" align="center">
 
-### 🗄️ Database & SQL
+<h3>⚙️ Backend</h3>
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-width="50" height="50" alt="MySQL"/>
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP"/>
 </p>
 
-**SQL • MySQL • Database Design • Database Management**
-
----
-
-### 📊 Data Science & Analytics
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-width="50" height="50" alt="Python"/>
-
+<p>
+  <b>Java</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Python</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>PHP</b>
 </p>
 
-- 🐍 Python
-- 📊 Data Analysis
-- 📈 Data Visualization
-- 🔢 Data Processing
-- 🧠 Data Science
+</td>
 
----
+</tr>
 
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<h3>🗄️ Database & SQL</h3>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+</p>
+
+<p>
+  <b>MySQL</b>
+</p>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<h3>📊 Data Science & Analytics</h3>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
+</p>
+
+<p>
+  <b>Python</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>NumPy</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Pandas</b>
+</p>
+
+</td>
+
+</tr>
+</table>
 ### 🔧 Tools & Development Environment
 
 <p align="left">
