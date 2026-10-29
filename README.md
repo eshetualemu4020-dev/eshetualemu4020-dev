@@ -23,7 +23,7 @@ I'm a **Bachelor degree Computer Science student at Hawassa University** passion
 
 I enjoy turning ideas into **practical software solutions**, solving challenging
 programming problems, and building applications that address real-world needs.
-My technical interests include **Java, Python, JavaScript, PHP, HTML, CSS, SQL,
+My technical interests include **Java, Python, JavaScript, PHP, HTML, CSS, Django,
 MySQL, and data analysis**.
 
 I'm committed to **continuous learning and improvement**, with a strong interest
@@ -97,7 +97,8 @@ projects**, collaborating with others, and exploring new technologies.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Python</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>PHP</b>
+  <b>PHP</b> 
+  <b>nodejs</b>
 </p>
 
 </td>
